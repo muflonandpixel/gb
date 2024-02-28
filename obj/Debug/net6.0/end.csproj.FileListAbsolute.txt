@@ -1,0 +1,15 @@
+C:\Users\Vova\Desktop\end\obj\Debug\net6.0\end.csproj.AssemblyReference.cache
+C:\Users\Vova\Desktop\end\obj\Debug\net6.0\end.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vova\Desktop\end\obj\Debug\net6.0\end.AssemblyInfoInputs.cache
+C:\Users\Vova\Desktop\end\obj\Debug\net6.0\end.AssemblyInfo.cs
+C:\Users\Vova\Desktop\end\obj\Debug\net6.0\end.csproj.CoreCompileInputs.cache
+C:\Users\Vova\Desktop\end\bin\Debug\net6.0\end.exe
+C:\Users\Vova\Desktop\end\bin\Debug\net6.0\end.deps.json
+C:\Users\Vova\Desktop\end\bin\Debug\net6.0\end.runtimeconfig.json
+C:\Users\Vova\Desktop\end\bin\Debug\net6.0\end.dll
+C:\Users\Vova\Desktop\end\bin\Debug\net6.0\end.pdb
+C:\Users\Vova\Desktop\end\obj\Debug\net6.0\end.dll
+C:\Users\Vova\Desktop\end\obj\Debug\net6.0\refint\end.dll
+C:\Users\Vova\Desktop\end\obj\Debug\net6.0\end.pdb
+C:\Users\Vova\Desktop\end\obj\Debug\net6.0\end.genruntimeconfig.cache
+C:\Users\Vova\Desktop\end\obj\Debug\net6.0\ref\end.dll
